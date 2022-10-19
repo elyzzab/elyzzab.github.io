@@ -18,6 +18,7 @@ a {
 	color: #999;
 }
 a:hover {
+	font-size: 2em;
 	text-decoration: underline;
 	color: #324943;
 }
