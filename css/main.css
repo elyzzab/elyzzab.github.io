@@ -44,10 +44,14 @@ ul.posts {
 ul.posts li {
 	list-style: none;
 }
+ul li {
+	margin: 4px;
+}
 .pill-badge {
 	background-color: #339900;
 	color: white;
 	padding: 4px 8px;
+	margin: 4px;
 	text-align: center;
 	border-radius: 20px;
 }
