@@ -3,7 +3,7 @@ body {
 	width: 70%;
 }
 nav ul, footer ul {
-	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+	font-family: 'Arial', 'Helvetica', 'Sans-Serif';
 	padding: 0px;
 	list-style: none;
 	font-weight: bold;
@@ -25,7 +25,7 @@ a:hover {
 
 h1 {
 	/*font-size: 3em;*/
-	font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+	font-family: 'Arial', 'Helvetica', 'Sans-Serif';
 }
 p {
 	/*font-size: 1.5em;
@@ -43,4 +43,11 @@ ul.posts {
 }
 ul.posts li {
 	list-style: none;
+}
+.pill-badge {
+	background-color: #339900;
+	color: white;
+	padding: 4px 8px;
+	text-align: center;
+	border-radius: 20px;
 }
