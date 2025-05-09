@@ -1,1 +1,1 @@
-# Welcome to [elyzzab.github.io](https://elyzzab.github.io/) - a very slow work in progress. :walking:
+# Welcome to [elyzzab.github.io](https://elyzzab.github.io/) - a (slow) work in progress. :walking:
